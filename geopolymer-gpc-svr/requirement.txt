@@ -1,0 +1,6 @@
+The required tools for this machine learning includes:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- joblib
